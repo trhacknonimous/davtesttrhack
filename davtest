@@ -39,7 +39,7 @@ def aox(script, site):
    except requests.exceptions.RequestException:
        print("some error!!")
 
-a = "anon.html"
+a = "adv.html"
 
 try:
  file = open(sys.argv[2],'w')
