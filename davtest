@@ -33,8 +33,8 @@ def aox(script, site):
                                                                                                                                                                       
       else:                                                                                                                                                           
         invisible = site + "/sample.html"                                                                                                                             
-        print("\n[+] The website is vulnerable to WebDAV !\n[+] {}\n".format(invisible))                                                                              
-        file.write("\n[+] The site {} is vulnerable to WebDAV\n\n".format(invisible))                                                                                 
+        print("\n[+] The website is vulnerable to WebDAV trhacknon's tool!\n[+] {}\n".format(invisible))                                                                              
+        file.write("\n[+] The site {} is vulnerable to WebDAV trhacknon's tool\n\n".format(invisible))                                                                                 
                                                                                                                                                                       
    except requests.exceptions.RequestException:
        print("some error!!")
